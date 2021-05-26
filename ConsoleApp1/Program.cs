@@ -181,6 +181,7 @@ namespace ConsoleApp1
             int a;
             a = Console.Read();
             cc.decode();
+            //finished this stuff
         }
     }
 }
